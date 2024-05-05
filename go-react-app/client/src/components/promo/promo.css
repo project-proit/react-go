@@ -1,0 +1,35 @@
+.promo {
+    margin-bottom: 63px;
+}
+
+.promo_content {
+    display: flex;
+    column-gap: 24px;
+
+    padding-top: 143px;
+    padding-left: 100px;
+
+}
+
+.promo_title {
+    color: #3D3F68;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 1.25;
+    padding: 100px;
+    padding-left: 20px;
+}
+
+.promo_img {
+    display: flex;
+
+    align-items: right;
+
+    column-gap: 60px;
+
+    justify-content: space-between;
+
+
+
+    height: 12%;
+}
